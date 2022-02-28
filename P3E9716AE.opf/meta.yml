@@ -1,0 +1,38 @@
+id: P3E9716AE
+initial_creation_type: input
+source_metadata:
+  title: Nyala Pema Dündul Series
+  language: bo
+  description: 'Texts by and about the great siddha of Nyarong, Nyala Pema Dündul
+    (nyag bla padma bdud ''dul, 1816–1872):'
+  volume:
+    5490dfc2aee54526b5c19912821e960b:
+      title: Advice Revealing How Our Faults Become Clear
+      parent: Advice
+    d7f388b66bf64303b8b8e4d230000260:
+      title: Advice on Abandoning the Eight Worldly Concerns
+      parent: Advice
+    f9f28078a8514102a19012d4b734fb46:
+      title: Advice on the View, Meditation, Action and Fruition
+      parent: Advice
+    d6a8e15f74e6472bba4e24410c8001fa:
+      title: Signs that the Common Preliminary Practices Have Penetrated the Mind
+      parent: Advice
+    35221df961294ff19bd50e8c574039e3:
+      title: Song of Advice for Giving Up Meat Eating
+      parent: Advice
+    32fc717db2f047dba1bea716ebe6df47:
+      title: The Heaven of Solitude
+      parent: Advice
+    40ebb17002014570aaaa75c5403bfcd7:
+      title: The Sovereign of Confessions for all Impairments and Breakages, Extracted
+        from the Rampant Elephant Tantra
+      parent: Confession
+    9ed7ffd3291b4bc192492fd9255c58c0:
+      title: Dharmakāya Transference
+      parent: Phowa
+    73d7a89511fa405aaec6f8fb0a79d589:
+      title: Prayer to Nyala Pema Dündul
+      parent: Prayers
+created_at: '2022-03-01T01:03:40.618060'
+last_modified_at: '2022-03-01T01:03:40.618063'
